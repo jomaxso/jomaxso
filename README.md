@@ -1,4 +1,4 @@
-## 👨‍💻 Johannes-Max Sorge
+## 👨‍💻 About Me
 
 **`Web`**
 **`Cloud`**
@@ -10,7 +10,7 @@ I'm a passionate software developer and consultant with extensive experience in 
 I am an optimist who sees challenges, not problems. Due to my job as a consultant, I travel extensively throughout Germany. 
 All coding project are built from the gound up, from planning and designing al the way to solving real-life problems with code.
 
----
+#
 
 ### 🧰 Languages and Tools
 
@@ -24,9 +24,13 @@ All coding project are built from the gound up, from planning and designing al t
 <img align="left" alt="JB Rider" width="30px" style="padding-right:10px;" src="" />
 <img align="left" alt="VS" width="30px" style="padding-right:10px;" src="" />
 <img align="left" alt="VS Code" width="30px" style="padding-right:10px;" src="" />
-<br/>
+<br />
 
 # 
+
+<br />
+
+### 📈 Statistics 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jomaxso&show_icons=true&theme=algolia)
 
