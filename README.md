@@ -42,7 +42,7 @@ All coding project are built from the gound up, from planning and designing al t
 
 ### 📈 Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jomaxso&show_icons=true&theme=algolia)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jomaxso&show_icons=true&theme=github_dark)
 
 <!--
 <details>
