@@ -1,5 +1,11 @@
 ## 👨‍💻 Johannes-Max Sorge
 
+**`Web`**
+**`Cloud`**
+**`On-Premise`**
+**`Mobile`** 
+**`Desktop`**
+
 I'm a passionate software developer and consultant with extensive experience in C# and .NET. 
 I am an optimist who sees challenges, not problems. Due to my job as a consultant, I travel extensively throughout Germany. 
 All coding project are built from the gound up, from planning and designing al the way to solving real-life problems with code.
