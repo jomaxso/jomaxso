@@ -1,4 +1,4 @@
-## 👨‍💻 Johannes-MAx Sorge
+## 👨‍💻 Johannes-Max Sorge
 
 **`Web`**
 **`Cloud`**
