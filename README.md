@@ -110,6 +110,12 @@ All coding project are built from the gound up, from planning and designing al t
   <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./icons/github-light.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./icons/github-dark.svg">
+  <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="./icons/github-dark.svg">
+</picture>
+
 <br />
 
 # 
