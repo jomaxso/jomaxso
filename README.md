@@ -6,9 +6,7 @@
 **`Mobile`** 
 **`Desktop`**
 
-I'm a passionate software developer and consultant with extensive experience in C# and .NET. 
-I am an optimist who sees challenges, not problems. Due to my job as a consultant, I travel extensively throughout Germany. 
-All coding project are built from the gound up, from planning and designing all the way to solving real-life problems with code.
+I’m a dedicated software developer with a strong background in C# and .NET. I approach every challenge with optimism and a problem-solving mindset. My consulting work takes me all over Germany, where I apply my skills to create innovative solutions from scratch. From planning and design to implementation, I ensure every project meets real-world needs through code
 
 #
 
