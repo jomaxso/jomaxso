@@ -119,7 +119,7 @@ I’m a dedicated software developer with a strong background in C# and .NET. I 
 
 # 
 
-### 📈 Stats
+### 📈 GitHub Stats
 	
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jomaxso&hide_title=true&show_icons=true&theme=github_dark&hide_border=true)
 
