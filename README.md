@@ -120,24 +120,7 @@ I’m a dedicated software developer with a strong background in C# and .NET. I 
 # 
 
 ### 📈 Stats
+	
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jomaxso&hide_title=true&show_icons=true&theme=github_dark&hide_border=true)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jomaxso&show_icons=true&theme=github_dark)
-
-<!--
-<details>
-	<summary><h3>Coding Journey</h3></summary>
-</details>
-
-**jomaxso/jomaxso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jomaxso&hide_title=true&layout=compact&theme=github_dark&hide_border=true)
