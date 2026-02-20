@@ -32,16 +32,8 @@
 ### 📊 GitHub Insights
 
 <p align="left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/3-stats.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="profile-summary-card-output/default/3-stats.svg" />
-    <img src="profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub Stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/1-repos-per-language.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="profile-summary-card-output/default/1-repos-per-language.svg" />
-    <img src="profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Top Languages" />
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=jomaxso&hide_title=true&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" height="165px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jomaxso&hide_title=true&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="165px" />
 </p>
 
 ---
