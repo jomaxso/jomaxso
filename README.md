@@ -32,8 +32,16 @@
 ### 📊 GitHub Insights
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jomaxso&hide_title=true&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" height="165px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jomaxso&hide_title=true&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="165px" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/3-stats.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="profile-summary-card-output/default/3-stats.svg" />
+    <img src="profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub Stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/1-repos-per-language.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="profile-summary-card-output/default/1-repos-per-language.svg" />
+    <img src="profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Top Languages" />
+  </picture>
 </p>
 
 ---
@@ -47,4 +55,3 @@ I regularly write about software design and architecture. Check out my latest th
 ### 🤝 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/johannes-max-sorge-92654522a/)
 [![Website](https://img.shields.io/badge/Blog-Semantic%20By%20Design-FF5722?style=for-the-badge&logo=rss)](https://semanticbydesign.com/)
-
