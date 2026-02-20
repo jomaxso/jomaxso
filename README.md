@@ -31,9 +31,9 @@
 
 ### 📊 GitHub Insights
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jomaxso&theme=github_dark" alt="GitHub Stats" width="49.5%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jomaxso&theme=github_dark" alt="GitHub Stats" width="49.5%" />
+<div align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jomaxso&theme=github_dark&hide_border=true" alt="Profile Details" width="65%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jomaxso&theme=github_dark&hide_border=true" alt="Most Commit Language" width="32%" />
 </div>
 
 ---
